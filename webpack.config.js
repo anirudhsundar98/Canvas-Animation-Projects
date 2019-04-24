@@ -9,7 +9,7 @@ module.exports = {
     // must be an absolute path (use the Node.js path module)
     filename: "bundle.js", // string
     // the filename template for entry chunks
-    publicPath: "/javascripts/", // string
+    publicPath: "/assets/", // string
     // the url to the output directory resolved relative to the HTML page
   },
   devtool: "source-map",
